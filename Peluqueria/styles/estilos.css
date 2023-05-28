@@ -1,0 +1,17 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#titulo h1{
+    color: #efb810 ;  
+    padding-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#car_text {
+    background: rgba(0, 0, 0, .4);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
